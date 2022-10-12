@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Health</string>
+    <string name="Hello">Добро пожаловать!</string>
+    <string name="registration">Регистрация</string>
+    <string name="confirm_number">Подтвердить номер телефона</string>
+    <string name="enter">Войти</string>
+</resources>
